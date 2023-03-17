@@ -1,0 +1,101 @@
+[
+   {
+      "sku":1,
+      "titulo":"Que hacer en una situcion de bullying",
+      "imagen":"img/talleres/1.webp",
+      "precio":3000,
+      "categoria":"Talleres"
+   },
+   {
+      "sku":2,
+      "titulo":"El valor de la amistad",
+      "imagen":"img/talleres/2.webp",
+      "precio":2900,
+      "categoria":"Talleres"
+   },
+   {
+      "sku":3,
+      "titulo":"Taller de orientación vocacional",
+      "imagen":"img/talleres/3.webp",
+      "precio":3100,
+      "categoria":"Talleres"
+   },
+   {
+      "sku":4,
+      "titulo":"Taller de configuraciones sistemicas",
+      "imagen":"img/talleres/4.webp",
+      "precio":3000,
+      "categoria":"Talleres"
+   },
+   {
+      "sku":5,
+      "titulo":"Hablemos sobre ansiedad",
+      "imagen":"img/talleres/5.webp",
+      "precio":2999,
+      "categoria":"Talleres"
+   },
+   {
+      "sku":6,
+      "titulo":"Descanso mi carga junto a otros",
+      "imagen":"img/talleres/6.webp",
+      "precio":1599,
+      "categoria":"Talleres"
+   },
+   {
+      "sku":7,
+      "titulo":"Aprendiendo a cerrar ciclos",
+      "imagen":"img/talleres/7.webp",
+      "precio":3299,
+      "categoria":"Talleres"
+   },
+   {
+      "sku":8,
+      "titulo":"Workshop intenso de teatro",
+      "imagen":"img/grupos/1.webp",
+      "precio":2500,
+      "categoria":"Grupos"
+   },
+   {
+      "sku":9,
+      "titulo":"Transtornos en la alimentación",
+      "imagen":"img/grupos/2.webp",
+      "precio":2990,
+      "categoria":"Grupos"
+   },
+   {
+      "sku":9,
+      "titulo":"Formación en psicoterapia gestáltica",
+      "imagen":"img/grupos/3.webp",
+      "precio":3600,
+      "categoria":"Grupos"
+   },
+   
+   {
+      "sku":10,
+      "titulo":"Concepto de campo de gestalt",
+      "imagen":"img/diplomaturas/1.webp",
+      "precio":14499,
+      "categoria":"Diplomaturas"
+   },
+   {
+      "sku":11,
+      "titulo":"El abordaje gestáltico con niño, niña y adolecentes",
+      "imagen":"img/diplomaturas/2.webp",
+      "precio":13999,
+      "categoria":"Diplomaturas"
+   },
+   {
+      "sku":12,
+      "titulo":"Inicios de arteterapia",
+      "imagen":"img/diplomaturas/3.webp",
+      "precio":15500,
+      "categoria":"Diplomaturas"
+   },
+   {
+      "sku":13,
+      "titulo":"Trabajo con el niño interior",
+      "imagen":"img/diplomaturas/4.webp",
+      "precio":16900,
+      "categoria":"Diplomaturas"
+   }  
+]
