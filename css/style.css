@@ -16,6 +16,16 @@ body {
   overflow-x: hidden;
 }
 
+h1{
+  font-family: 'Fuzzy Bubbles', cursive;
+    font-size: 200%;
+    font-weight: bolder;
+    color: #0e9b3d;
+    letter-spacing: 1px;
+    position: relative;
+    margin-top: 0px;
+}
+
 a {
   text-decoration: none;
 }
