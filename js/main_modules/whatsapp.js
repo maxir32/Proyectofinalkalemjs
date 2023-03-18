@@ -16,7 +16,7 @@ function botonWhatsAppClicked(event, productos) {
 
   // Abre un link a WhatsApp, con un mensaje con la info del producto
   window.open(
-    "https://api.whatsapp.com/send?phone=++5491157667000&text=Hola,%20quiero%20comprar%20el%20producto%20*" + productoAgregado.titulo + "*,%20que%20tiene%20un%20precio%20de%20*$" + productoAgregado.precio.toFixed(2) + "*.%20Muchas%20gracias!",
+    "https://api.whatsapp.com/send?phone=++543884211659&text=Hola,%20quiero%20comprar%20el%20producto%20*" + productoAgregado.titulo + "*,%20que%20tiene%20un%20precio%20de%20*$" + productoAgregado.precio.toFixed(2) + "*.%20Muchas%20gracias!",
     "_blank"
   )
 
